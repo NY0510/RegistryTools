@@ -1,4 +1,4 @@
-## <kbd>F1</kbd> Key Edge Help Disable
+## F1 Key Edge Help Disable
 
 #### [Korean Version](https://github.com/NY0510/RegistryTools/blob/master/F1%20Edge%20Help%20Disable/README.md)
 
