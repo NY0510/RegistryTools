@@ -1,6 +1,6 @@
 ## 윈도우 11에서 윈도우 10 스타일 우클릭메뉴 되돌리기
 
-#### [English Version](https://github.com/NY0510/RegistryTools/blob/master/F1%20Edge%20Help%20Disable/README-EN.md)
+#### [English Version](https://github.com/NY0510/RegistryTools/blob/master/Windows10%20Style%20Context%20Menu/README-EN.md)
 
 <img src="https://media.discordapp.net/attachments/739431080053964800/896376168381579305/unknown.png" width="50%"/>
 
