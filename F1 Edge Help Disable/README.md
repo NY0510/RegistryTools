@@ -1,4 +1,4 @@
-## <kbd>F1</kbd> 키 눌렀을때 나오는 도움말 비활성화
+## F1 키 눌렀을때 나오는 도움말 비활성화
 
 #### [English Version](https://github.com/NY0510/RegistryTools/blob/master/F1%20Edge%20Help%20Disable/README-EN.md)
 
