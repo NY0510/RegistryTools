@@ -6,7 +6,7 @@
 
 윈도우 11의 불편한 우클릭메뉴를 다시 윈도우10 스타일로 되돌립니다.
 
-| 파일                                                                                                                | 설명                          |
-| ------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [`win10.reg`](https://github.com/NY0510/RegistryTools/blob/master/Windows10%20Style%20Context%20Menu/windows10.reg) | 윈도우10 스타일 적용          |
-| [`win11.reg`](https://github.com/NY0510/RegistryTools/blob/master/Windows10%20Style%20Context%20Menu/windows11.reg) | 윈도우11 스타일 적용 (기본값) |
+| 파일                                                                                                            | 설명                          |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| [`win10.reg`](https://github.com/NY0510/RegistryTools/blob/master/Windows10%20Style%20Context%20Menu/win10.reg) | 윈도우10 스타일 적용          |
+| [`win11.reg`](https://github.com/NY0510/RegistryTools/blob/master/Windows10%20Style%20Context%20Menu/win11.reg) | 윈도우11 스타일 적용 (기본값) |

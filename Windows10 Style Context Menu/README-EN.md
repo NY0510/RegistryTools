@@ -6,7 +6,7 @@
 
 Reverts the inconvenient **Context Menu** of Windows 11 back to **Windows 10 style**.
 
-| File                                                                                                                | Description                      |
-| ------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [`win10.reg`](https://github.com/NY0510/RegistryTools/blob/master/Windows10%20Style%20Context%20Menu/windows10.reg) | Apply Windows 10 Style           |
-| [`win11.reg`](https://github.com/NY0510/RegistryTools/blob/master/Windows10%20Style%20Context%20Menu/windows11.reg) | Apply Windows 11 style (Default) |
+| File                                                                                                            | Description                      |
+| --------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [`win10.reg`](https://github.com/NY0510/RegistryTools/blob/master/Windows10%20Style%20Context%20Menu/win10.reg) | Apply Windows 10 Style           |
+| [`win11.reg`](https://github.com/NY0510/RegistryTools/blob/master/Windows10%20Style%20Context%20Menu/win11.reg) | Apply Windows 11 style (Default) |
