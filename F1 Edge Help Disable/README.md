@@ -2,7 +2,8 @@
 
 <img src="https://media.discordapp.net/attachments/739431080053964800/906445210509275146/unknown.png" width="60%"/>
 
-파일 탐색기나 바탕화면 등에서 <kbd>F1</kbd>키를 누르면 **엣지에서 검색되는 도움말** **On/Off**
+파일 탐색기나 바탕화면 등에서 <kbd>F1</kbd> 키를 누르면 **엣지에서 도움말 검색되는** 기능 **On/Off**
+**On/Off** the function to **search for help in Edge** by pressing the <kbd>F1</kbd> key in the file explorer or on the desktop
 
 | 파일                                                                                                        | 설명                   |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------- |
