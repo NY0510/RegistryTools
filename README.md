@@ -4,6 +4,6 @@
 
 Useful Windows Registry Collection
 
-<br><br>
+<br>
 
 -   [F1 키 도움말 비활성화 - F1 Key Help Disable](https://github.com/NY0510/RegistryTools/blob/master/F1%20Edge%20Help%20Disable)
