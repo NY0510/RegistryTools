@@ -1,6 +1,6 @@
 ## F1 Edge Help Disable
 
-#### [English Version](https://github.com/NY0510/RegistryTools/blob/master/F1%20Edge%20Help%20Disable/README-EN.md)
+##### [English Version](https://github.com/NY0510/RegistryTools/blob/master/F1%20Edge%20Help%20Disable/README-EN.md)
 
 <img src="https://media.discordapp.net/attachments/739431080053964800/906445210509275146/unknown.png" width="60%"/>
 
